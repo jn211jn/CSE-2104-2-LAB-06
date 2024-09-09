@@ -67,23 +67,23 @@ public class Person {
         
         System.out.println("Person 1 : ");
         System.out.println("Name = "+person1.getName());
-        System.out.println("Age : "+person1.getAge());
-        System.out.println("Gender : "+person1.getGender());
-        System.out.println("Address : "+person1.getAddress());
+        System.out.println("Age = "+person1.getAge());
+        System.out.println("Gender = "+person1.getGender());
+        System.out.println("Address = "+person1.getAddress());
         System.out.println();
         
         System.out.println("Person 2 : ");
         System.out.println("Name = "+person2.getName());
-        System.out.println("Age : "+person2.getAge());
-        System.out.println("Gender : "+person2.getGender());
-        System.out.println("Address : "+person2.getAddress());
+        System.out.println("Age = "+person2.getAge());
+        System.out.println("Gender = "+person2.getGender());
+        System.out.println("Address = "+person2.getAddress());
         System.out.println();
         
         System.out.println("Person 3 : ");
         System.out.println("Name = "+person3.getName());
-        System.out.println("Age : "+person3.getAge());
-        System.out.println("Gender : "+person3.getGender());
-        System.out.println("Address : "+person3.getAddress());
+        System.out.println("Age = "+person3.getAge());
+        System.out.println("Gender = "+person3.getGender());
+        System.out.println("Address = "+person3.getAddress());
         
     }
 }
